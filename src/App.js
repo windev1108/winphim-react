@@ -5,7 +5,6 @@ import { useStore, actions } from './store'
 
 function App() {
     const [state, dispatch] = useStore()
-    const formSearched =  JSON.parse(localStorage.getItem('searched')).s
     const mid  = localStorage.getItem("mId") || ''
    
     return ( 
