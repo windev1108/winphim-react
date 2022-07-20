@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/winphim-react/static/css/main.251afe6f.css",
+    "main.js": "/winphim-react/static/js/main.282878c1.js",
+    "static/media/bg.png": "/winphim-react/static/media/bg.88c322f0e93f954e6f79.png",
+    "static/media/error.png": "/winphim-react/static/media/error.d18629049045b84d0f99.png",
+    "static/media/cinema.svg": "/winphim-react/static/media/cinema.185a6191c4f524ccf7510ecfa026bf69.svg",
+    "index.html": "/winphim-react/index.html",
+    "static/media/antd.less": "/winphim-react/static/media/antd.7affb7a1925b6ab47ea6.less",
+    "main.251afe6f.css.map": "/winphim-react/static/css/main.251afe6f.css.map",
+    "main.282878c1.js.map": "/winphim-react/static/js/main.282878c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.251afe6f.css",
+    "static/js/main.282878c1.js"
+  ]
+}
