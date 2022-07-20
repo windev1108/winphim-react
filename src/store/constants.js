@@ -1,0 +1,8 @@
+export const GET_MOVIES = 'get_movies'
+export const GET_USERS = 'get_users'
+export const ADD_MOVIE = 'add_movie'
+export const UPDATE_MOVIE = 'update_movie'
+export const DELETE_MOVIE = 'delete_movie'
+export const GET_SELECTED_ID = 'get_selected_id'
+export const GET_MOVIES_SEARCHED = 'get_movies_searched'
+export const GET_FORM_SEARCHED = 'get_form_searched'
